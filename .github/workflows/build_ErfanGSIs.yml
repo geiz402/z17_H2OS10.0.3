@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V12.5.4.0.RFBCNXM/miui_GRUS_V12.5.4.0.RFBCNXM_4c2e342d60_11.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
